@@ -1,6 +1,7 @@
 -  Hi, I’m @AkshayTH
--  I’m interested in Android development and kotlin
--  I’m currently learning backend development
+-  I’m a backend developer (spring boot)
+-  I’m also do mobile development for the frontend.
+-  I am currently learning blockchain development
 -  I’m looking to collaborate on various open source projects
 -  you can reach me at akshayth2004@gmail.com
 
