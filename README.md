@@ -1,7 +1,6 @@
 -  Hi, I’m @AkshayTH
 -  I’m a backend developer (spring boot)
--  I’m also do mobile development for the frontend.
--  I am currently learning blockchain development
+-  I am also quite proficient in blockchain development ( EVM, solana )
 -  I’m looking to collaborate on various open source projects
 -  you can reach me at akshayth2004@gmail.com
 
